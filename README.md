@@ -32,7 +32,3 @@ A full-featured, scalable e-commerce web application built using the **MERN stac
 **Auth**  
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
----
-
-## 📂 Folder Structure
-
